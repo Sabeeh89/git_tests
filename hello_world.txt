@@ -1,0 +1,4 @@
+Hello World!
+This is me first time staging and committing in git
+It is confusing.
+But it gets easier.
